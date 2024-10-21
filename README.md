@@ -232,9 +232,6 @@ If uBlock Origin doesn't work, try uBlacklist (and vise versa). Try out each of 
 
 ❌ Startpage, Ecosia, Brave support (for uBlock Origin)
 
-## Happy Pride Month!
-LGBTQ+ Rights! 🏳️‍🌈🏳️‍⚧️
-
 ## Special Thanks
 
 Special thanks to: 
